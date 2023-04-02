@@ -1,0 +1,136 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+    background: url(./coffee\ main.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mainbg{
+    float: left;
+    position: sticky;
+    top: 0px;
+    /* height: 1000px; */
+   
+}
+#d1{
+    margin-left: 250px;
+    font-size: 20px;
+}
+a {
+    color: rgb(19, 17, 18);
+  }
+  a:link {
+   
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+  }
+  a:hover {
+    background-color: white;
+  }
+  a:link, a:visited {
+   
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  #d2{
+    margin-left: 250px;
+    font-size: 20px;
+  }
+  #d3{
+    margin-left: 250px;
+    font-size: 20px;
+  }
+  #d4{
+    margin-left: 250px;
+    font-size: 20px;
+  }
+  .aboutus{
+    margin-top: 200px;
+    margin-left: 100px;
+    width: 1000px;
+    /* height: 500px; */
+    /* background-color: white; */
+    color: black;
+    /* font-family:Verdana, Geneva, Tahoma, sans-serif; */
+    font-size: 200%;
+    font-weight: 600;
+    margin-left: 900px;
+    margin-top: 80px;
+    font-family: 'Dancing Script', cursive;
+  }
+  #d5{
+    padding-left: 600px;
+    font-size: 100px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .whatwe{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    margin: 25px;
+    float: left;
+    opacity: 0.2;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 150px;
+    margin-left: 150px;
+    font-size: x-large;
+  }
+  
+  .footer-text-left {
+    font-size:25px;
+    padding-left:40px;
+    float:left;
+    word-spacing:20px;
+    color: aliceblue;
+    background-color: azure;
+    opacity: 0.2;
+  }
+  
+  a.menu:hover {
+    background-color:rgb(8, 8, 1);
+    font-size:20px;
+    color: rgb(241, 236, 236);
+    opacity: 0.5;
+  }
+ .footer{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 200px;
+ }
+
+.c1{
+  width: 100%;
+  height: 800px;
+  background-color: rgb(146, 118, 84);
+} 
+.container{
+  background-color: white;
+  margin-bottom: 0px;
+} 
+.text-center{
+  background-color: white;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  height: 200px;
+}
+.diff{
+  margin-top: 310px;
+}
+.heading{
+  font-size: 50px;
+  font-family: 'Fuzzy Bubbles', cursive;
+}
+.para{
+  font-size: 30px;
+  font-family: 'Fuzzy Bubbles', cursive;
+}
+#df{
+  font-size: 40px;
+}
